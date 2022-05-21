@@ -1,6 +1,3 @@
-<!--# gabrieldozal.github.io
-Gabe's Website
--->
 <!DOCTYPE HTML>
 <!--
 	Dimension by HTML5 UP
